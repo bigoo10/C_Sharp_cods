@@ -1,0 +1,5 @@
+D:\C_Sharp_Projects\my_First_Varible\my_First_Varible\bin\Debug\my_First_Varible.exe.config
+D:\C_Sharp_Projects\my_First_Varible\my_First_Varible\bin\Debug\my_First_Varible.exe
+D:\C_Sharp_Projects\my_First_Varible\my_First_Varible\bin\Debug\my_First_Varible.pdb
+D:\C_Sharp_Projects\my_First_Varible\my_First_Varible\obj\Debug\my_First_Varible.exe
+D:\C_Sharp_Projects\my_First_Varible\my_First_Varible\obj\Debug\my_First_Varible.pdb

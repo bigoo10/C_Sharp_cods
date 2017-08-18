@@ -1,0 +1,6 @@
+D:\C_Sharp_Projects\my_FirstProgram\my_FirstProgram\bin\Debug\my_FirstProgram.exe.config
+D:\C_Sharp_Projects\my_FirstProgram\my_FirstProgram\bin\Debug\my_FirstProgram.exe
+D:\C_Sharp_Projects\my_FirstProgram\my_FirstProgram\bin\Debug\my_FirstProgram.pdb
+D:\C_Sharp_Projects\my_FirstProgram\my_FirstProgram\obj\Debug\my_FirstProgram.csprojResolveAssemblyReference.cache
+D:\C_Sharp_Projects\my_FirstProgram\my_FirstProgram\obj\Debug\my_FirstProgram.exe
+D:\C_Sharp_Projects\my_FirstProgram\my_FirstProgram\obj\Debug\my_FirstProgram.pdb
