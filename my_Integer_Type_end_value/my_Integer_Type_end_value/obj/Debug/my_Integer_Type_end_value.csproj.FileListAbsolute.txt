@@ -1,0 +1,6 @@
+D:\C_Sharp_Projects\my_Integer_Type_end_value\my_Integer_Type_end_value\bin\Debug\my_Integer_Type_end_value.exe.config
+D:\C_Sharp_Projects\my_Integer_Type_end_value\my_Integer_Type_end_value\bin\Debug\my_Integer_Type_end_value.exe
+D:\C_Sharp_Projects\my_Integer_Type_end_value\my_Integer_Type_end_value\bin\Debug\my_Integer_Type_end_value.pdb
+D:\C_Sharp_Projects\my_Integer_Type_end_value\my_Integer_Type_end_value\obj\Debug\my_Integer_Type_end_value.csprojResolveAssemblyReference.cache
+D:\C_Sharp_Projects\my_Integer_Type_end_value\my_Integer_Type_end_value\obj\Debug\my_Integer_Type_end_value.exe
+D:\C_Sharp_Projects\my_Integer_Type_end_value\my_Integer_Type_end_value\obj\Debug\my_Integer_Type_end_value.pdb
