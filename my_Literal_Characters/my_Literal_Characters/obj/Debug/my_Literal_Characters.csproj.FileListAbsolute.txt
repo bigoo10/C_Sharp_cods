@@ -1,0 +1,6 @@
+D:\C_Sharp_Projects\my_Literal_Characters\my_Literal_Characters\bin\Debug\my_Literal_Characters.exe.config
+D:\C_Sharp_Projects\my_Literal_Characters\my_Literal_Characters\bin\Debug\my_Literal_Characters.exe
+D:\C_Sharp_Projects\my_Literal_Characters\my_Literal_Characters\bin\Debug\my_Literal_Characters.pdb
+D:\C_Sharp_Projects\my_Literal_Characters\my_Literal_Characters\obj\Debug\my_Literal_Characters.csprojResolveAssemblyReference.cache
+D:\C_Sharp_Projects\my_Literal_Characters\my_Literal_Characters\obj\Debug\my_Literal_Characters.exe
+D:\C_Sharp_Projects\my_Literal_Characters\my_Literal_Characters\obj\Debug\my_Literal_Characters.pdb
