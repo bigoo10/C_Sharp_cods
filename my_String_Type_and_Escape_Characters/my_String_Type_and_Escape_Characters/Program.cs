@@ -22,9 +22,11 @@ namespace my_String_Type_and_Escape_Characters
             string my_Backslash_n = "my Backslash n \n -----";    //تستعمل في الانتقال لسطر جديد
             string my_Backslash_r = " my \r my Backslash r";           //يستعمل في مسح ما قبله
             string my_Backslash_t = "my \tBackslash t";               //يترك خمسة مسافات بعده
-            string my_Backslash_v = "my Backslash v \v";           //يضهر علامة استفهام داخل مربع 
-            string my_Backslash_f = "my\fBackslash f ";
-            string my_At_sign = @"my At sign " ;           //يطبع كل مابعده
+            string my_Backslash_v = "my Backslash v \v";           //يضهر علامة مذكر 
+            string my_Backslash_f = "my\fBackslash f ";            //يضهر علامة مؤنث
+            string my_At_sign = @" my ,""At sign"" " ;           //يطبع كل مابعده
+
+            Console.Title = ("my_String_Type_and_Escape_Characters"); 
 
             Console.WriteLine(" {0}\n {1}\n {2} \n {3} \n {4} \n {5} \n {6} \n {7} \n {8} \n {9} \n {10}", my_Backslash, my_Double_Backslash,my_Backslash_ero,my_Backslash_a,my_Backslash_b,my_Backslash_n,my_Backslash_r,my_Backslash_t,my_Backslash_v,my_Backslash_f,my_At_sign);
             Console.ReadKey();
