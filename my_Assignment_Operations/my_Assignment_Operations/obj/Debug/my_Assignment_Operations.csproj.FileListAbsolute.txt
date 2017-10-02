@@ -1,0 +1,6 @@
+D:\C_Sharp_Projects\my_Assignment_Operations\my_Assignment_Operations\bin\Debug\my_Assignment_Operations.exe.config
+D:\C_Sharp_Projects\my_Assignment_Operations\my_Assignment_Operations\bin\Debug\my_Assignment_Operations.exe
+D:\C_Sharp_Projects\my_Assignment_Operations\my_Assignment_Operations\bin\Debug\my_Assignment_Operations.pdb
+D:\C_Sharp_Projects\my_Assignment_Operations\my_Assignment_Operations\obj\Debug\my_Assignment_Operations.csprojResolveAssemblyReference.cache
+D:\C_Sharp_Projects\my_Assignment_Operations\my_Assignment_Operations\obj\Debug\my_Assignment_Operations.exe
+D:\C_Sharp_Projects\my_Assignment_Operations\my_Assignment_Operations\obj\Debug\my_Assignment_Operations.pdb
