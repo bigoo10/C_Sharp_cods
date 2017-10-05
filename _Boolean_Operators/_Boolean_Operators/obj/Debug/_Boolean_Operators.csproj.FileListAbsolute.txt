@@ -1,0 +1,6 @@
+D:\C_Sharp_Projects\_Boolean_Operators\_Boolean_Operators\bin\Debug\_Boolean_Operators.exe.config
+D:\C_Sharp_Projects\_Boolean_Operators\_Boolean_Operators\bin\Debug\_Boolean_Operators.exe
+D:\C_Sharp_Projects\_Boolean_Operators\_Boolean_Operators\bin\Debug\_Boolean_Operators.pdb
+D:\C_Sharp_Projects\_Boolean_Operators\_Boolean_Operators\obj\Debug\_Boolean_Operators.csprojResolveAssemblyReference.cache
+D:\C_Sharp_Projects\_Boolean_Operators\_Boolean_Operators\obj\Debug\_Boolean_Operators.exe
+D:\C_Sharp_Projects\_Boolean_Operators\_Boolean_Operators\obj\Debug\_Boolean_Operators.pdb
